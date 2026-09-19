@@ -1,2 +1,2 @@
-# codesoft-_tasks
+# codesoft_tasks
 Codesoft C++ Programming Internship 
